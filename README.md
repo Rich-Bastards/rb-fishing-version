@@ -1,1 +1,1 @@
-# rb-fishing-version 2.0.0
+# rb-fishing-version 2.0.1
